@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For debug_lvc
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SetGap	KEYWORD2
+SetDuration	KEYWORD2
+SetPin	KEYWORD2
+Pulse	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+#e.g.
+#CAN_FAIL	LITERAL1
